@@ -1,9 +1,11 @@
+import omelette from "../assets/images/image-omelette.jpeg"
+
 export const App = () => {
   return (
     <div className="flex justify-center items-center min-h-screen">
       <main className="w-80 flex flex-col justify-center items-center sm:w-[600px]">
         <div className="w-screen sm:mt-8 sm:w-[600px]">
-          <img src="../assets/images/image-omelette.jpeg" alt="omelette-image" 
+          <img src={omelette} alt="omelette-image" 
           className="w-full sm:rounded-xl"/>
         </div>
         <section className="flex flex-col p-4 sm:pl-0 sm:pr-0">
