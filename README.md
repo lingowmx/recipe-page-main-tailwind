@@ -1,8 +1,36 @@
-# React + Vite
+# Frontend Mentor - Recipe page solution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-Currently, two official plugins are available:
+## Table of contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Frontend Mentor - Recipe page solution](#frontend-mentor---recipe-page-solution)
+  - [Table of contents](#table-of-contents)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Link](#link)
+
+## My process
+
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Tailwindcss
+- Mobile-first workflow
+- [vite](https://vite.dev/) 
+- [React](https://reactjs.org/) - JS library
+- [Next.js](https://nextjs.org/) - React framework
+
+**Note: These are just examples. Delete this note and replace the list above with your own choices**
+
+### What I learned
+I learned the proper way to import images using react. and some new styles in tailwind css
+
+### Link
+[Link to page](https://lingowmx.github.io/recipe-page-main-tailwind/)
+
